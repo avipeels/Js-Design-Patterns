@@ -1,0 +1,11 @@
+{
+  "name": "Js-Design-Patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:avipeels/Js-Design-Patterns.git",
+  "author": "avinash psk <avinashpsk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
